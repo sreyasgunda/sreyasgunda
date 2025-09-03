@@ -1,6 +1,6 @@
 # Hi there, I'm Sreyas! 👋  
 
-Welcome to my GitHub profile! 🚀  
+Welcome to my GitHub profile! 
 I’m passionate about technology, problem-solving, and building impactful projects.  
 
 ---
