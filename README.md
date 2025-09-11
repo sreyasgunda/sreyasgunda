@@ -37,7 +37,7 @@ Here are a few projects I’ve worked on:
 - **College Vibes** 🎉 – A campus event management platform with WhatsApp notifications & certificate generation  
 - **Nextera** 📘 – An AI-powered adaptive learning platform (Django + React)  
 - **Smart Campus Assistant** 🎓 – A Flask-based virtual assistant for students  
-- **To-Do Manager** ✅ – Task management app (React + Django / Node.js + MongoDB)  
+- **To-Do Manager** ✅ – Task management app (React + Django / Node.js + MongoDB) 
 
 ---
 
